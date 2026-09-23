@@ -20,7 +20,7 @@ const AboutUs = () => {
         </Button>
 
         <div className="bg-white dark:bg-slate-800 rounded-lg shadow p-6 md:p-8">
-          <h1 className="text-3xl font-bold mb-6 text-primary">About Dial Pro</h1>
+          <h1 className="text-3xl font-bold mb-6 text-primary">About CallG</h1>
           
           <div className="prose dark:prose-invert max-w-none space-y-6">
             {/* Hero Section */}
@@ -38,7 +38,7 @@ const AboutUs = () => {
             <section>
               <h2 className="text-xl font-semibold mt-6 mb-3">Who We Are</h2>
               <p className="text-gray-700 dark:text-gray-300">
-                Dial Pro is a cloud-based virtual phone number service that enables individuals and businesses to communicate seamlessly across borders. We provide virtual phone numbers from multiple countries, allowing you to make and receive calls, send SMS, and manage your communications from anywhere in the world.
+                CallG is a cloud-based virtual phone number service that enables individuals and businesses to communicate seamlessly across borders. We provide virtual phone numbers from multiple countries, allowing you to make and receive calls, send SMS, and manage your communications from anywhere in the world.
               </p>
             </section>
 
@@ -108,7 +108,7 @@ const AboutUs = () => {
             <section>
               <h2 className="text-xl font-semibold mt-6 mb-3">Our Mission</h2>
               <p className="text-gray-700 dark:text-gray-300">
-                At Dial Pro, we believe communication should be borderless, affordable, and accessible to everyone. Our mission is to break down geographical barriers and empower individuals and businesses to connect with anyone, anywhere in the world.
+                At CallG, we believe communication should be borderless, affordable, and accessible to everyone. Our mission is to break down geographical barriers and empower individuals and businesses to connect with anyone, anywhere in the world.
               </p>
             </section>
 
@@ -123,7 +123,7 @@ const AboutUs = () => {
                 <strong>Website:</strong> dialpro.live
               </p>
               <p className="text-sm text-gray-500 dark:text-gray-400 mt-4">
-                © {new Date().getFullYear()} Dial Pro. Powered by Tech Talk Titans.
+                © {new Date().getFullYear()} CallG. Powered by Tech Talk Titans.
               </p>
             </section>
           </div>
