@@ -30,7 +30,7 @@ const PrivacyPolicy = () => {
             <section>
               <h2 className="text-xl font-semibold mt-6 mb-3">1. Information We Collect</h2>
               <p className="text-gray-700 dark:text-gray-300">
-                Dial Pro collects information you provide directly to us, including:
+                CallG collects information you provide directly to us, including:
               </p>
               <ul className="list-disc pl-6 text-gray-700 dark:text-gray-300 space-y-2">
                 <li>Name, email address, and phone number when you create an account</li>
@@ -62,7 +62,7 @@ const PrivacyPolicy = () => {
               <ul className="list-disc pl-6 text-gray-700 dark:text-gray-300 space-y-2">
                 <li>With service providers who assist in our operations (e.g., Twilio for telecommunications)</li>
                 <li>To comply with legal obligations or respond to lawful requests</li>
-                <li>To protect the rights, property, or safety of Dial Pro and our users</li>
+                <li>To protect the rights, property, or safety of CallG and our users</li>
               </ul>
             </section>
 
@@ -87,16 +87,6 @@ const PrivacyPolicy = () => {
               </ul>
             </section>
 
-            <section>
-              <h2 className="text-xl font-semibold mt-6 mb-3">6. Contact Us</h2>
-              <p className="text-gray-700 dark:text-gray-300">
-                If you have any questions about this Privacy Policy, please contact us at:
-              </p>
-              <p className="text-gray-700 dark:text-gray-300 mt-2">
-                Email: support@dialpro.live<br />
-                Powered by Tech Talk Titans
-              </p>
-            </section>
           </div>
         </div>
       </div>
