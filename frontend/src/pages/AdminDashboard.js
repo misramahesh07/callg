@@ -218,7 +218,7 @@ const AdminDashboard = () => {
         <div className="flex items-center justify-between mb-6 bg-white dark:bg-slate-800 p-4 rounded-lg shadow">
           <div className="flex items-center gap-4">
             <h1 className="text-3xl font-bold text-primary">Admin Panel</h1>
-            <span className="text-sm text-gray-500">Dial Pro Management</span>
+            <span className="text-sm text-gray-500">CallG Management</span>
           </div>
           <Button
             variant="outline"
