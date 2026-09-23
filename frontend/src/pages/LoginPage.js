@@ -39,7 +39,7 @@ const LoginPage = () => {
             className="h-16 w-16 mx-auto mb-4"
           />
 
-          <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-2">Dial Pro</h1>
+          <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-2">CallG</h1>
           <p className="text-gray-600 dark:text-gray-400">Powered by Tech Talk Titans</p>
         </div>
 
