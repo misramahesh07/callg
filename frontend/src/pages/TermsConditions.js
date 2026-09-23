@@ -30,14 +30,14 @@ const TermsConditions = () => {
             <section>
               <h2 className="text-xl font-semibold mt-6 mb-3">1. Acceptance of Terms</h2>
               <p className="text-gray-700 dark:text-gray-300">
-                By accessing and using Dial Pro services, you agree to be bound by these Terms and Conditions. If you do not agree to these terms, please do not use our services.
+                By accessing and using CallG services, you agree to be bound by these Terms and Conditions. If you do not agree to these terms, please do not use our services.
               </p>
             </section>
 
             <section>
               <h2 className="text-xl font-semibold mt-6 mb-3">2. Service Description</h2>
               <p className="text-gray-700 dark:text-gray-300">
-                Dial Pro provides virtual phone number services, including:
+                CallG provides virtual phone number services, including:
               </p>
               <ul className="list-disc pl-6 text-gray-700 dark:text-gray-300 space-y-2">
                 <li>Virtual phone numbers from multiple countries</li>
@@ -120,7 +120,7 @@ const TermsConditions = () => {
             <section>
               <h2 className="text-xl font-semibold mt-6 mb-3">8. Limitation of Liability</h2>
               <p className="text-gray-700 dark:text-gray-300">
-                Dial Pro shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of our services. Our total liability shall not exceed the amount paid by you in the preceding 12 months.
+                CallG shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of our services. Our total liability shall not exceed the amount paid by you in the preceding 12 months.
               </p>
             </section>
 
@@ -131,16 +131,7 @@ const TermsConditions = () => {
               </p>
             </section>
 
-            <section>
-              <h2 className="text-xl font-semibold mt-6 mb-3">10. Contact Us</h2>
-              <p className="text-gray-700 dark:text-gray-300">
-                For questions about these Terms & Conditions, please contact us at:
-              </p>
-              <p className="text-gray-700 dark:text-gray-300 mt-2">
-                Email: support@dialpro.live<br />
-                Powered by Tech Talk Titans
-              </p>
-            </section>
+          
           </div>
         </div>
       </div>
