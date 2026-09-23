@@ -167,7 +167,7 @@ const DashboardLayout = () => {
       {/* Mobile Header */}
       <div className="bg-white dark:bg-slate-800 border-b border-gray-200 dark:border-slate-700 p-4 sticky top-0 z-10">
         <div className="flex items-center justify-between">
-          <h1 className="text-xl font-bold">Dial Pro</h1>
+          <h1 className="text-xl font-bold">CallG</h1>
           <ProfileButton />
         </div>
       </div>
