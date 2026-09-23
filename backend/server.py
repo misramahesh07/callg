@@ -1,5 +1,5 @@
 """
-DialPro Backend - Refactored & Production-Ready
+CallG Backend - Refactored & Production-Ready
 ================================================
 
 KEY FIXES APPLIED:
@@ -198,7 +198,7 @@ manager = ConnectionManager()
 # APP SETUP
 # ============================================================================
 
-app = FastAPI(title="DialPro API", version="2.0.0")
+app = FastAPI(title=" API", version="2.0.0")
 api_router = APIRouter(prefix="/api")
 security = HTTPBearer()
 
@@ -2552,13 +2552,13 @@ app.add_middleware(
 async def startup_event():
     """Initialize database with seed data."""
     # Create admin user
-    admin = await db.users.find_one({"email": "admin@dialpro.live"})
+    admin = await db.users.find_one({"email": "admin@CallG.live"})
     if not admin:
         hashed_password = ph.hash("admin212")
         admin_doc = {
             "id": str(uuid.uuid4()),
             "phone_number": "+10000000000",
-            "email": "admin@dialpro.live",
+            "email": "admin@CallG.live",
             "name": "Admin",
             "password": hashed_password,
             "role": "admin",
