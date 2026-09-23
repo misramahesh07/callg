@@ -1,0 +1,32 @@
+.App {
+  min-height: 100vh;
+}
+
+.dial-pad-button {
+  transition: all 0.15s ease;
+}
+
+.dial-pad-button:hover {
+  background-color: hsl(var(--primary) / 0.1);
+}
+
+.dial-pad-button:active {
+  background-color: hsl(var(--primary) / 0.2);
+  transform: scale(0.95);
+}
+
+.primary-button {
+  transition: all 0.2s ease;
+}
+
+.primary-button:active {
+  transform: scale(0.95);
+}
+
+.conversation-item {
+  transition: background-color 0.15s ease;
+}
+
+.conversation-item:hover {
+  background-color: hsl(var(--accent) / 0.5);
+}
